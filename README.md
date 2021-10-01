@@ -77,7 +77,10 @@ Also increased the number of neurons in the hidden clusters. Also tried adding a
 
 #   Neural Network Charity-Summary
 
-
+The maximum accuracy that could be reached using the deep learning model is 72.94%/73%. This still falls short than the desired accuracy of 75%. Considering that this target level is pretty average we could say that the model is not outperforming.
+For this project, the classification required is binary classification.
+The below models might be useful in this scenario:
+* Random Forest Classifier to combine multiple Decision Trees
 
 
 
